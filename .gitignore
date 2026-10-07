@@ -1,0 +1,21 @@
+# Byte-compiled / Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments & Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# VS Code settings & workspace files
+.vscode/
+*.code-workspace
+
+# Environment variables & secrets
+.env
+
+# MacOS / OS generated files
+.DS_Store
+Thumbs.db
